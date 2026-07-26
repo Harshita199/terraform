@@ -1,3 +1,5 @@
+VERY BASIC SYNTAX FOR THE TERRAFORM
+
 <block> <parameters> {
 ARGUMENTS
 }
