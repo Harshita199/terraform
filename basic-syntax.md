@@ -1,6 +1,6 @@
 VERY BASIC SYNTAX FOR THE TERRAFORM
 
-<block> <parameters> {
+block parameters {
 ARGUMENTS
 }
 
